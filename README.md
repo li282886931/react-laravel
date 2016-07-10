@@ -116,3 +116,4 @@ Your `components.js` file should also be included at your view, and all your com
 
 This package is inspired at [react-rails](https://github.com/reactjs/react-rails).
 # react-laravel
+# react-laravel
